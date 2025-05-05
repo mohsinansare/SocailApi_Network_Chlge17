@@ -1,7 +1,7 @@
 # 17 NoSQL: Social Network API
 
 ## Table of Contents:  
-[1. Your Task](#Your-Task)  
+[1. Your Task](#Your-Task)
 [2. Acceptance Criteria](#Acceptance-Criteria) 
 [3. Mockup/tests](#Mockup/Tests)
 [4. Installation](#Installation)
