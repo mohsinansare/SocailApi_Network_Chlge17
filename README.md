@@ -1,7 +1,7 @@
 # 17 NoSQL: Social Network API
 
 ## Table of Contents:  
-[1. Your Task](#Your Task)  
+[1. Your Task](#Your-Task)  
 [2. Acceptance Criteria](#Acceptance-Criteria)  
 [3. Walkthrough Videos](#Walkthrough-Videos)  
 [4. Installation](#Installation)  
@@ -45,10 +45,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Walkthrough Videos
-[User Routes](C:\Computer Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\User Routes.webm)  
-[Friend Routes](Computer Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Friend Routes.webm))  
-[Thought Routes](Computer Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Thought Routes.webm)  
-[Reaction Routes](Computer Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Reaction Routes.webm)  
+[User Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Users-Routes.webm)  
+[Friend Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Friend-Routes.webm)  
+[Thought Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Thought-Routes.webm)  
+[Reaction Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Reaction-Routes.webm)  
 ## Mock Up
 
 The following animations show examples of the application's API routes being tested in Insomnia.
