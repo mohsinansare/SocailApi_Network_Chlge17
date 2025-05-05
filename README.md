@@ -46,10 +46,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Walkthrough Videos
-[User Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Users-Routes.webm)  
-[Friend Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Friend-Routes.webm)  
-[Thought Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Thought-Routes.webm)  
-[Reaction Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Reaction-Routes.webm)
+[User Routes](https://studio.youtube.com/video/IqOWdANdahc/edit)  
+[Friend Routes](https://studio.youtube.com/video/w3KpQRFs59c/edit))  
+[Thought Routes](https://studio.youtube.com/video/_V5TYgpCBag/edit)  
+[Reaction Routes](https://studio.youtube.com/video/KwUXgVbX8Gc/edit)
 
 ## Installation:
 1. npm install
