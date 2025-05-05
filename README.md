@@ -231,7 +231,7 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 * https://github.com/mohsinansare/SocailApi_Network_Chlge17
-* 
+* https://github.com/mohsinansare/SocailApi_Network_Chlge17/blob/main/README.md
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
