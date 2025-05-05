@@ -46,6 +46,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Walkthrough Videos
+A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
 [User Routes](https://studio.youtube.com/video/IqOWdANdahc/edit)  
 [Friend Routes](https://studio.youtube.com/video/w3KpQRFs59c/edit)  
 [Thought Routes](https://studio.youtube.com/video/_V5TYgpCBag/edit)  
@@ -226,13 +227,11 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 
 * `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
+## Git Repository
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* https://github.com/mohsinansare/SocailApi_Network_Chlge17
+* 
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
