@@ -3,12 +3,13 @@
 ## Table of Contents:  
 [1. Your Task](#Your-Task)  
 [2. Acceptance Criteria](#Acceptance-Criteria)  
-[3. Walkthrough Videos](#Walkthrough-Videos)  
-[4. Installation](#Installation)  
-[5. Tests](#Tests)  
-[6. License Details](#License-Details)  
-[7. Submission](#Submission)   
-[8. Questions](#Questions) 
+[3. Walkthrough Videos](#Walkthrough-Videos)
+[4. Mockup](#Mockup)
+[5. Installation](#Installation)  
+[6. Tests](#Tests)  
+[7. License Details](#License-Details)  
+[8. Submission](#Submission)   
+[9. Questions](#Questions) 
 
 ## Your Task
 
