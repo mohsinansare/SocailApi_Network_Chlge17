@@ -52,9 +52,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 [Reaction Routes](Computer-Programming\first-day\FSF-PT-EAST-NOVEMBER-110424\17-NoSQL\02-Challenge\Assets\Reaction-Routes.webm)
 
 ## Installation:
-[1.](npm install)
-[2.](npm run build)
-[3.](npm run start)
+[1.] npm install
+[2.] npm run build
+[3.] npm run start
 
 ## Mock Up
 
