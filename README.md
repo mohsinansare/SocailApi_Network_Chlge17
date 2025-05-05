@@ -1,13 +1,13 @@
 # 17 NoSQL: Social Network API
 
 ## Table of Contents:  
-[1. Your Task](#Your-Task) 
+[1. Your Task](#Your-Task)  
 [2. Acceptance Criteria](#Acceptance-Criteria)  
-[3. Mockup/tests](#Mockup/Tests) 
-[4. Installation](#Installation) 
-[5. Submission](#Submission) 
-[6. Walkthrough Videos & Gitrepository](#Walkthrough-Videos/Gitrepository) 
-[7. License](#License) 
+[3. Mockup/tests](#Mockup/Tests)  
+[4. Installation](#Installation)  
+[5. Submission](#Submission)  
+[6. Walkthrough Videos & Gitrepository](#Walkthrough-Videos/Gitrepository)  
+[7. License](#License)  
 
 
 
