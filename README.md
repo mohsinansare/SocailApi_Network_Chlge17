@@ -55,6 +55,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 1. npm install
 2. npm run build
 3. npm run start
+4. Install insomnia to check the code for api/users/, api/friends, api/thoughts, and api/Reaction.
 
 ## Mock Up
 
