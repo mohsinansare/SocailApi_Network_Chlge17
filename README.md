@@ -47,7 +47,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Walkthrough Videos
 [User Routes](https://studio.youtube.com/video/IqOWdANdahc/edit)  
-[Friend Routes](https://studio.youtube.com/video/w3KpQRFs59c/edit))  
+[Friend Routes](https://studio.youtube.com/video/w3KpQRFs59c/edit)  
 [Thought Routes](https://studio.youtube.com/video/_V5TYgpCBag/edit)  
 [Reaction Routes](https://studio.youtube.com/video/KwUXgVbX8Gc/edit)
 
