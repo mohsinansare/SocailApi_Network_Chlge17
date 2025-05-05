@@ -2,14 +2,14 @@
 
 ## Table of Contents:  
 [1. Your Task](#Your-Task)  
-[2. Acceptance Criteria](#Acceptance-Criteria)  
-[3. Walkthrough Videos](#Walkthrough-Videos)
-[4. Mockup](#Mockup)
-[5. Installation](#Installation)  
-[6. Tests](#Tests)  
-[7. License Details](#License-Details)  
-[8. Submission](#Submission)   
-[9. Questions](#Questions) 
+[2. Acceptance Criteria](#Acceptance-Criteria) 
+[3. Mockup/tests](#Mockup/Tests)
+[4. Installation](#Installation)
+[5. Submission](#Submission)
+[6. Walkthrough Videos & Gitrepository](#Walkthrough-Videos/Gitrepository)
+[7. License](#License) 
+
+
 
 ## Your Task
 
@@ -44,13 +44,6 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
-
-## Walkthrough Videos
-A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-[User Routes](https://studio.youtube.com/video/IqOWdANdahc/edit)  
-[Friend Routes](https://studio.youtube.com/video/w3KpQRFs59c/edit)  
-[Thought Routes](https://studio.youtube.com/video/_V5TYgpCBag/edit)  
-[Reaction Routes](https://studio.youtube.com/video/KwUXgVbX8Gc/edit)
 
 ## Installation:
 1. npm install
@@ -227,7 +220,16 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 
 * `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
-## Git Repository
+## Submission:
+The submission should include the following details.
+
+## Walkthrough Videos & Git Repository:
+
+A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
+[User Routes](https://studio.youtube.com/video/IqOWdANdahc/edit)  
+[Friend Routes](https://studio.youtube.com/video/w3KpQRFs59c/edit)  
+[Thought Routes](https://studio.youtube.com/video/_V5TYgpCBag/edit)  
+[Reaction Routes](https://studio.youtube.com/video/KwUXgVbX8Gc/edit)
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 * https://github.com/mohsinansare/SocailApi_Network_Chlge17
