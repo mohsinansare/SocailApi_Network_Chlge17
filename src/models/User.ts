@@ -1,10 +1,11 @@
-import { Schema, Document, model, ObjectId } from 'mongoose';
+import { Schema, Document, model, Types } from 'mongoose';
 
 interface IUser extends Document {
   first: string;
   last: string;
   age: number;
-  thoughts: ObjectId[];
+  thoughts:Types.ObjectId[];
+  friends:Types.ObjectId[];
   fullName: string;
  }
 
@@ -20,6 +21,12 @@ const userSchema = new Schema<IUser>(
         ref: 'thoughts',
       },
     ],
+    friends: [
+      {
+        type: Schema.Types.ObjectId,
+        ref: 'users',
+      }
+    ]
   },
   {
     // Mongoose supports two Schema options to transform Objects after querying MongoDb: toJSON and toObject.
@@ -46,6 +53,6 @@ userSchema
   });
 
 // Initialize our User model
-const User = model('user', userSchema);
+const User = model<IUser>('user', userSchema);
 
 export default User
